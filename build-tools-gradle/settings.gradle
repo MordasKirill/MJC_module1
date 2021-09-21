@@ -1,0 +1,4 @@
+rootProject.name = 'TaskEpamGradle'
+include 'api'
+include 'core'
+
