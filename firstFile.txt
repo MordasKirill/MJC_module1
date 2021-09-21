@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 fw
 gwr
 qegqeb
 breqbrt
+=======
+fwgw
+gwgwr
+qegb
+breqb
+>>>>>>> Stashed changes
 rtbrtwbq
 vqebeq
 beqb
